@@ -40,13 +40,21 @@ The following files are available for the train and test data. Their description
 WorkDone
 ========
 Created a run_analysis.R script file to contain all the scripts
-1. Extracted the Features
-2. Extracted the Test Set data
-3. Extracted the Train Set data
-5. Extracts only the measurements on the mean and standard deviation for each measurement. 
-6. Uses descriptive activity names to name the activities in the data set
-7. Appropriately labels the data set with descriptive variable names. 
-8. Merges the training and the test sets to create one data set.
-9. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-10. Run the R script to generate the tidy data set in the same working directory
+1. Extracted the Features
+
+2. Extracted the Test Set data
+
+3. Extracted the Train Set data
+
+4. Extracts only the measurements on the mean and standard deviation for each measurement. 
+
+5. Uses descriptive activity names to name the activities in the data set
+
+6. Appropriately labels the data set with descriptive variable names. 
+
+7. Merges the training and the test sets to create one data set.
+
+8. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+9. Run the R script to generate the tidy data set in the same working directory
